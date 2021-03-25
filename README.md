@@ -54,7 +54,7 @@ If you find this code useful for your research, please cite our [paper](https://
 @inproceedings{Li2021TSA,
     title = {Transferable Semantic Augmentation for Domain Adaptation},
     author = {Li, Shuang and Xie, Mixue and Gong, Kaixiong and Liu, Chi Harold and Wang, Yulin and Li, Wei},
-    booktitle = {2021 {IEEE/CVF} Conference on Computer Vision and Pattern Recognition, {CVPR} 2021, Seattle, WA, USA, June 19-25, 2021},   
+    booktitle = {CVPR},   
     year = {2021}
 }
 ```
