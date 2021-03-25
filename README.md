@@ -6,7 +6,7 @@ Code release for "Transferable Semantic Augmentation for Domain Adaptation" (CVP
 
 <div align=center><img src="./Figures/TSA.jpg" width="100%"></div>
 
-[Transferable Semantic Augmentation for Domain Adaptation](https://xxxx) 
+[Transferable Semantic Augmentation for Domain Adaptation](https://arxiv.org/abs/2103.12562) 
 (CVPR 2021)
 
 We propose a Transferable Semantic Augmentation (TSA) approach to enhance the classifier adaptation ability through implicitly generating source features towards target semantics.
@@ -49,7 +49,7 @@ python3 train_TSA.py --gpu_id 4 --arch resnet101 --seed 2 --dset visda --output_
 ```
 
 ## Citation
-If you find this code useful for your research, please cite our [paper](https://xxxxx):
+If you find this code useful for your research, please cite our [paper](https://arxiv.org/abs/2103.12562):
 ```
 @inproceedings{Li2021TSA,
     title = {Transferable Semantic Augmentation for Domain Adaptation},
